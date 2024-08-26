@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\New folder\find_min\bin\Debug\net7.0\find_min.exe
+C:\Users\ASUS\Desktop\New folder\find_min\bin\Debug\net7.0\find_min.deps.json
+C:\Users\ASUS\Desktop\New folder\find_min\bin\Debug\net7.0\find_min.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder\find_min\bin\Debug\net7.0\find_min.dll
+C:\Users\ASUS\Desktop\New folder\find_min\bin\Debug\net7.0\find_min.pdb
+C:\Users\ASUS\Desktop\New folder\find_min\obj\Debug\net7.0\find_min.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder\find_min\obj\Debug\net7.0\find_min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder\find_min\obj\Debug\net7.0\find_min.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder\find_min\obj\Debug\net7.0\find_min.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder\find_min\obj\Debug\net7.0\find_min.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder\find_min\obj\Debug\net7.0\find_min.dll
+C:\Users\ASUS\Desktop\New folder\find_min\obj\Debug\net7.0\refint\find_min.dll
+C:\Users\ASUS\Desktop\New folder\find_min\obj\Debug\net7.0\find_min.pdb
+C:\Users\ASUS\Desktop\New folder\find_min\obj\Debug\net7.0\find_min.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder\find_min\obj\Debug\net7.0\ref\find_min.dll
